@@ -1,0 +1,10 @@
+{
+  "description": "Explore Statistics Korea’s monthly population movements by city, county, and district with trend charts, regional rankings, search, and normalized comparisons.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
